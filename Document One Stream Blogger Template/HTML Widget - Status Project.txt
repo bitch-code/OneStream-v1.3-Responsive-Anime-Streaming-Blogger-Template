@@ -1,0 +1,20 @@
+<div class='stat fx'>
+<b>Arslan Senki Episode 08</b>
+<div class="progress">
+  <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="45" aria-valuemin="0" aria-valuemax="100" style="width: 45%">
+    <span class="sr-only">45% Complete</span>
+  </div>
+</div>
+<b>Ore Monogatari!! Episode 03</b>
+<div class="progress">
+  <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="45" aria-valuemin="0" aria-valuemax="100" style="width: 45%">
+    <span class="sr-only">45% Complete</span>
+  </div>
+</div>
+<b>Arslan Senki Episode 05</b>
+<div class="progress">
+  <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="45" aria-valuemin="0" aria-valuemax="100" style="width: 45%">
+    <span class="sr-only">45% Complete</span>
+  </div>
+</div>
+</div>

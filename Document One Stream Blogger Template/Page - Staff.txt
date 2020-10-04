@@ -1,0 +1,33 @@
+<div class='staff_item row'>
+    <div class='staff_thmb col-xs-6 col-sm-5 col-md-4'><img src="http://2.bp.blogspot.com/-nmHu-kVtj-A/VVPwArQtHuI/AAAAAAAALlU/TgRUQdFYtwQ/w230-h160-c/ore%2Bmonogatari%2B-%2B06.jpg" alt="Staff" class="img-rounded"></div>
+    <div class='staff_pos col-xs-6 col-sm-7 col-md-8'>
+        <h4>Frozen</h4>
+        <ul>
+            <li>First Text</li>
+            <li>Second Text</li>
+            <li>Third Text</li>
+        </ul>
+    </div>
+</div>
+<div class='staff_item row'>
+    <div class='staff_thmb col-xs-6 col-sm-5 col-md-4'><img src="http://2.bp.blogspot.com/-nmHu-kVtj-A/VVPwArQtHuI/AAAAAAAALlU/TgRUQdFYtwQ/w230-h160-c/ore%2Bmonogatari%2B-%2B06.jpg" alt="Staff" class="img-rounded"></div>
+    <div class='staff_pos col-xs-6 col-sm-7 col-md-8'>
+        <h4>Frozen</h4>
+        <ul>
+            <li>First Text</li>
+            <li>Second Text</li>
+            <li>Third Text</li>
+        </ul>
+    </div>
+</div>
+<div class='staff_item row'>
+    <div class='staff_thmb col-xs-6 col-sm-5 col-md-4'><img src="http://2.bp.blogspot.com/-nmHu-kVtj-A/VVPwArQtHuI/AAAAAAAALlU/TgRUQdFYtwQ/w230-h160-c/ore%2Bmonogatari%2B-%2B06.jpg" alt="Staff" class="img-rounded"></div>
+    <div class='staff_pos col-xs-6 col-sm-7 col-md-8'>
+        <h4>Frozen</h4>
+        <ul>
+            <li>First Text</li>
+            <li>Second Text</li>
+            <li>Third Text</li>
+        </ul>
+    </div>
+</div>

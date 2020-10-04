@@ -1,0 +1,7 @@
+<LOG>
+
+1.2 [/2016]
+- Fix Javascript
+
+1.3 [5/2/2016]
+- Fix Meta Tag

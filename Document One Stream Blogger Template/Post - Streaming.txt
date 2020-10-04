@@ -1,0 +1,44 @@
+/*
+NOTE :
+IF YOU WANT DEFER VIDEO (OPTIMIZED VIDEO)
+CHANGE src BE data-src (lowercase)
+*/
+
+  <!-- Nav tabs -->
+  <ul class="nav nav-tabs fx" role="tablist">
+    <li role="presentation" class="active"><a href="#vid1" aria-controls="home" role="tab" data-toggle="tab">ForUpload</a></li>
+    <li role="presentation"><a href="#vid2" aria-controls="profile" role="tab" data-toggle="tab">Mp4Upload</a></li>
+    <li role="presentation"><a href="#vid3" aria-controls="messages" role="tab" data-toggle="tab">VideoWood</a></li>
+  </ul>
+  <!-- Tab Panel -->
+  <div class="tab-content fx">
+    <div role="tabpanel" class="tab-pane fade in active" id="vid1">
+      <div class='notice'><b>Why defer videos?</b>
+When you have videos from Youtube, Wistia, Vimeo, etc. embedded in your webpages it causes your page to load slower.<br/>
+Just about every video can be deferred until after your initial pageload which will allow your page to load quickly without having to gather all the files and resources that the video is requesting.<br/>
+By deferring the video files you are often saving dozens of files requests and resource downloads and it can really make a difference for your page speed. Videos fall under the Render blocking javascript error you may see in pagespeed tools when you examine your site.</div>
+      <iframe src="http://www.mp4upload.com/embed-ntvruo1j40ao.html" allowfullscreen="true" frameborder=0 srcolling=no width=640 height=360><img alt='Description Anime' title='Title Anime' src="https://2.bp.blogspot.com/-NFoAbBpHTe0/VxdGE4DgQuI/AAAAAAAAFN4/1i_Zxj4uR5YXpvcwuC1O9D0h2-p2Ecg0ACLcB/s320/77523l.jpg" /></iframe>
+    </div>
+    <div role="tabpanel" class="tab-pane fade" id="vid2">
+      <iframe src="http://www.mp4upload.com/embed-ntvruo1j40ao.html" allowfullscreen="true" frameborder=0 srcolling=no width=640 height=360></iframe>
+    </div>
+    <div role="tabpanel" class="tab-pane fade" id="vid3">
+      <iframe src="http://www.mp4upload.com/embed-ntvruo1j40ao.html" allowfullscreen="true" frameborder=0 srcolling=no width=640 height=360></iframe>
+    </div>
+  </div>
+
+  <!-- Tab Download -->
+<div class="collapse fx" id="fdownload">
+
+<div class="panel panel-default dlbox fx">
+  <div class="panel-body">
+      <div class="panel-heading">Download</div>
+      <a href="http://susutin.com/APXgM" target="_blank">Elsfile</a>
+      <a href="http://susutin.com/ekEyT" target="_blank">Zippyshare</a>
+      <a href="http://susutin.com/ybZ5q" target="_blank">Solidfiles</a>
+      <a href="http://susutin.com/rJifh" target="_blank">Mirror</a>
+  </div>
+  <div class="panel-footer">Joker Game Episode 1 [480p].mkv</div>
+</div><!-- end panel dlbox -->
+
+</div><!-- end collapse -->

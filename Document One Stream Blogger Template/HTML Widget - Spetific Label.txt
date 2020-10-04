@@ -1,0 +1,17 @@
+<script type='text/javascript'>
+var numposts = 4;
+var showpostthumbnails = true;
+var displaymore = false;
+var displayseparator = false;
+var showcommentnum = true;
+var showpostdate = true;
+var showpostsummary = true;
+var showstyleblog = false;
+var numchars = 200;
+</script>
+<script type="text/javascript" src="/feeds/posts/default/-/Ore%20Monogatari?orderby=updated&
+alt=json-in-script&callback=labelthumbs"></script>
+
+NOTE :
+var numposts = 4 <- for total post show
+Ore%20Monogatari <- replace that with your label name
